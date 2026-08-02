@@ -56,6 +56,15 @@ Swagger UI
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
+## Future Enhancements
+
+- Store expenses in MySQL/PostgreSQL
+- Add update expense API
+- Implement Spring Security with JWT authentication
+- Add pagination and sorting
+- Containerize using Docker
+- Add integration tests with MockMvc
+  
 ## Repository
 
 https://github.com/Sunilgowda2003/expense-tracker
