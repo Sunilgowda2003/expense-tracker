@@ -56,7 +56,9 @@ Swagger UI
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
+## Repository
 
+https://github.com/Sunilgowda2003/expense-tracker
 ## Author
 
 Sunil J S
